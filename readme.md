@@ -15,7 +15,7 @@ Solucion integral de modernizacion para el Banco XYZ, transitando desde un siste
 | `readme.md` | Vision general del proyecto, mapa arquitectonico, cumplimiento de pauta y estructura del repositorio. |
 | `instrucciones.md` | Guia tecnica paso a paso para compilar, ejecutar y verificar cada componente en entorno local. |
 | `despliegue.md` | Procedimiento detallado de despliegue en la nube (AWS EC2) y conexion con Oracle Autonomous Database. |
-| `Informe_Tecnico_EFT.pdf` | Informe formal de ingenieria (plantilla Duoc UC) con justificacion de negocio, arquitectura y diagramas. |
+| `Informe_Tecnico_EFT.docx` | Informe formal de ingenieria (plantilla Duoc UC) con justificacion de negocio, arquitectura y diagramas. |
 | `evidencias/` | Registros de ejecucion: `01` a `05` (procesos batch en local); `10` a `12` (despliegue productivo en AWS EC2 con Oracle ADB). |
 | `video_presentacion.mp4` | Exposicion de 5 a 7 minutos cubriendo resumen ejecutivo, resultados, desafios y mejoras. |
 
